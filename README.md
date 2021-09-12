@@ -1,9 +1,9 @@
 # odin-recipes
 
 # learning outcomes: 
-  -> Link 
+  #Link 
     -> Absolute 
     -> relative 
-  -> img tag 
-  -> anchor tag 
-  -> List tag(ol,ul)
+  # img tag 
+  # anchor tag 
+  # List tag(ol,ul)
