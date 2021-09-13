@@ -1,0 +1,32 @@
+html{
+    height: 100%;
+}
+body{
+    background:linear-gradient(#9dd5eb ,#db87de);
+}
+
+#heading{
+    margin: 50px;
+    display: inline;
+    text-align: center;
+    color: rgb(29, 15, 228);
+}
+/*container wrap around recipe card */
+#container{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px;
+}
+.recipe_card{
+    background:#d1dade;
+    text-align: center;
+    padding: 2px;
+    border: 2px solid;
+    border-radius: 5px;
+    box-shadow: 2px 3px;
+}
+
+.recipe_card img{
+    width: 300px;
+    height: 300px;
+}
